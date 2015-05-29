@@ -1,0 +1,52 @@
+#######################################
+# Syntax Coloring Map For Player
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Player	KEYWORD1
+eq_type_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+play	KEYWORD2
+pause	KEYWORD2
+stop	KEYWORD2
+next	KEYWORD2
+prev	KEYWORD2
+volumeUp	KEYWORD2
+volumeDown	KEYWORD2
+setVolume	KEYWORD2
+setEqualizer	KEYWORD2
+reset	KEYWORD2
+setPower	KEYWORD2
+playTrack	KEYWORD2
+repeatTrack	KEYWORD2
+repeatTracks	KEYWORD2
+repeatShuffledTracks	KEYWORD2
+repeatingTrack	KEYWORD2
+repeatFolder	KEYWORD2
+waitForTrack	KEYWORD2
+waitForTracks	KEYWORD2
+isPlaying	KEYWORD2
+getVolume	KEYWORD2
+getEqualizer	KEYWORD2
+getTracksCount	KEYWORD2
+getFoldersCount	KEYWORD2
+getTrackCount	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NORMAL	KEYWORD3
+ROCK	KEYWORD3
+POP	KEYWORD3
+JAZZ	KEYWORD3
+CLASSICAL	KEYWORD3
+
+MAX_VOLUME	KEYWORD3
